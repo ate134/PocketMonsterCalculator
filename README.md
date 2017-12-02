@@ -17,12 +17,16 @@ buffs/debuffs memorized. This version is currently only valid for Gen 6 only (Su
 	- If dual mode is enabled when you click on a type, its type name will be added below the 
 	"Dual Mode" text ![Dual Mode with Types](https://github.com/ate134/PocketMonsterCalculator/blob/master/Assets/Materials/Pictures%20for%20GitHub/DualModeTypeNames.PNG "Dual mode with types")
 
+- **Example scenario** *(Dual Mode, Electric + Grass, Defensive)*
+	![Example screen](https://github.com/ate134/PocketMonsterCalculator/blob/master/Assets/Materials/Pictures%20for%20GitHub/Example.PNG "Example")
+
 ### Authors:
 - **Jake Bolton**
 
 ### Acknowledgments:
 - Harshil P. - For making me play a pokemon game long enough to make me want to make this
 - Nintendo - For making the Pokemon series
-- RankBoost.com - for creating the chart that I based the calculator on
+- RankedBoost.com - for creating the chart that I based the calculator on
+- Unity - For making a game engine to mess around with
 
-![RankBoost Type Chart](https://github.com/ate134/PocketMonsterCalculator/blob/master/Assets/Materials/sun-and-moon-type-chart-2.jpg "Pokemon Type Chart")
+![RankedBoost Type Chart](https://github.com/ate134/PocketMonsterCalculator/blob/master/Assets/Materials/sun-and-moon-type-chart-2.jpg "Pokemon Type Chart")

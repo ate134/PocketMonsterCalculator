@@ -34,9 +34,9 @@ of different types against others. Supports looking at offensve and defensive st
 - **Jake Bolton**
 
 ### Acknowledgments:
-- Harshil P. - For making me play a pokemon game long enough to make me want to make this
-- Nintendo - For making the Pokemon series
-- Unity - For making a game engine to mess around with
-- RankedBoost.com - For creating the chart that I based the calculator on
+- **Harshil P.** - For making me play a pokemon game long enough to make me want to make this
+- **Nintendo** - For making the Pokemon series
+- **Unity** - For making a game engine to mess around with
+- **RankedBoost.com** - For creating the chart that I based the calculator on
 
 ![RankedBoost Type Chart](https://github.com/ate134/PocketMonsterCalculator/blob/master/Assets/Materials/sun-and-moon-type-chart-2.jpg "Pokemon Type Chart")

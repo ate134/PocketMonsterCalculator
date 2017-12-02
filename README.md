@@ -10,7 +10,7 @@ buffs/debuffs memorized. This version is currently only valid for Gen 6 only (Su
 	- To swap between seeing the offensive and defensive stats, click on the
 	Offensive/Defensive button. 
 	
-	![Offensive Button](https://github.com/ate134/PocketMonsterCalculator/blob/master/Assets/Materials/Pictures%20for%20GitHub/OffensiveButton.PNG "Offensive Button") --> ![Defensive Button](https://github.com/ate134/PocketMonsterCalculator/blob/master/Assets/Materials/Pictures%20for%20GitHub/DefensiveButton.PNG "Defensive Button")
+	![Offensive Button](https://github.com/ate134/PocketMonsterCalculator/blob/master/Assets/Materials/Pictures%20for%20GitHub/OffensiveButton.PNG "Offensive Button")    -->    ![Defensive Button](https://github.com/ate134/PocketMonsterCalculator/blob/master/Assets/Materials/Pictures%20for%20GitHub/DefensiveButton.PNG "Defensive Button")
 	
 - **Dual Mode:**
 	- To enable/disable the dual mode feature, click the box beside the "Dual Mode" text. 
@@ -35,7 +35,7 @@ buffs/debuffs memorized. This version is currently only valid for Gen 6 only (Su
 ### Acknowledgments:
 - Harshil P. - For making me play a pokemon game long enough to make me want to make this
 - Nintendo - For making the Pokemon series
-- RankedBoost.com - for creating the chart that I based the calculator on
 - Unity - For making a game engine to mess around with
+- RankedBoost.com - For creating the chart that I based the calculator on
 
 ![RankedBoost Type Chart](https://github.com/ate134/PocketMonsterCalculator/blob/master/Assets/Materials/sun-and-moon-type-chart-2.jpg "Pokemon Type Chart")

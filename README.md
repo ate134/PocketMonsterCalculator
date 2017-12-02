@@ -35,7 +35,10 @@ of different types against others. Supports looking at offensve and defensive st
 - **Jake Bolton**
 
 ### Built With:
-- [**Unity**](https://unity3d.com/ "Unity")
+- [**Unity Game Engine**](https://unity3d.com/ "Unity")
+
+### Contributing:
+I am curently not interested in contributions as this was a quick personal project to get done what is already done.
 
 ### Acknowledgments:
 - **Harshil P.** - For making me play a pokemon game long enough to make me want to make this

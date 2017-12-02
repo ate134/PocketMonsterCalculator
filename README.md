@@ -30,8 +30,12 @@ of different types against others. Supports looking at offensve and defensive st
 - Better UI
 - Add good way for testing against 2 types *(Grass+Water vs Ice+Bug)*
 	
+	
 ### Authors:
 - **Jake Bolton**
+
+### Built With:
+- [**Unity**](https://unity3d.com/ "Unity")
 
 ### Acknowledgments:
 - **Harshil P.** - For making me play a pokemon game long enough to make me want to make this

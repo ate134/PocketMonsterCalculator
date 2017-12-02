@@ -10,7 +10,7 @@ buffs/debuffs memorized. This version is currently only valid for Gen 6 only (Su
 	- To swap between seeing the offensive and defensive stats, click on the
 	Offensive/Defensive button. 
 	
-	![Offensive/Defensive Button](https://github.com/ate134/PocketMonsterCalculator/blob/master/Assets/Materials/Pictures%20for%20GitHub/OffensiveButton.PNG "Offensive/Defensive Button")
+	![Offensive Button](https://github.com/ate134/PocketMonsterCalculator/blob/master/Assets/Materials/Pictures%20for%20GitHub/OffensiveButton.PNG "Offensive Button") --> ![Defensive Button](https://github.com/ate134/PocketMonsterCalculator/blob/master/Assets/Materials/Pictures%20for%20GitHub/DefensiveButton.PNG "Defensive Button")
 	
 - **Dual Mode:**
 	- To enable/disable the dual mode feature, click the box beside the "Dual Mode" text. 

@@ -9,13 +9,17 @@ buffs/debuffs memorized. This version is currently only valid for Gen 6 only (Su
 	![Type Buttons](https://github.com/ate134/PocketMonsterCalculator/blob/master/Assets/Materials/Pictures%20for%20GitHub/Types.PNG "Type Buttons")
 	- To swap between seeing the offensive and defensive stats, click on the
 	Offensive/Defensive button. 
+	
 	![Offensive/Defensive Button](https://github.com/ate134/PocketMonsterCalculator/blob/master/Assets/Materials/Pictures%20for%20GitHub/OffensiveButton.PNG "Offensive/Defensive Button")
 	
 - **Dual Mode:**
 	- To enable/disable the dual mode feature, click the box beside the "Dual Mode" text. 
+	
 	![Dual Mode Text](https://github.com/ate134/PocketMonsterCalculator/blob/master/Assets/Materials/Pictures%20for%20GitHub/DualModeToggle.PNG "Dual Mode Text")
 	- If dual mode is enabled when you click on a type, its type name will be added below the 
-	"Dual Mode" text ![Dual Mode with Types](https://github.com/ate134/PocketMonsterCalculator/blob/master/Assets/Materials/Pictures%20for%20GitHub/DualModeTypeNames.PNG "Dual mode with types")
+	"Dual Mode" text 
+	
+	![Dual Mode with Types](https://github.com/ate134/PocketMonsterCalculator/blob/master/Assets/Materials/Pictures%20for%20GitHub/DualModeTypeNames.PNG "Dual mode with types")
 
 - **Example scenario** *(Dual Mode, Electric + Grass, Defensive)*
 	![Example screen](https://github.com/ate134/PocketMonsterCalculator/blob/master/Assets/Materials/Pictures%20for%20GitHub/Example.PNG "Example")

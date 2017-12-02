@@ -1,6 +1,7 @@
 # Pocket Monster Calculator
-This personal project was made for people who do not have the Pokemon type attack and defense
-buffs/debuffs memorized. This version is currently only valid for Gen 6 only (Sun and Moon).
+This personal project was made for people playing a pokemon game who want to quickly know the advantages and disadvantages
+of different types against others. Supports looking at offensve and defensive stats along with dual type pokemon.
+*This version is currently only valid for Gen 6 only (Sun and Moon).*
 
 	
 ## How To Use:

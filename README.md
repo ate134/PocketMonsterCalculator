@@ -25,9 +25,9 @@ buffs/debuffs memorized. This version is currently only valid for Gen 6 only (Su
 	![Example screen](https://github.com/ate134/PocketMonsterCalculator/blob/master/Assets/Materials/Pictures%20for%20GitHub/Example.PNG "Example")
 
 ## ToDo:
-	- Add option for previous generations
-	- Better UI
-	- Add good way for testing against 2 types *(Grass+Water vs Ice+Bug)*
+- Add option for previous generations
+- Better UI
+- Add good way for testing against 2 types *(Grass+Water vs Ice+Bug)*
 	
 ### Authors:
 - **Jake Bolton**

@@ -35,7 +35,7 @@ public class PokeType : MonoBehaviour {
 
     //private int row;
 
-    float[,] pokeType = new float[18, 18] {
+    float[,] pokeType = new float[18, 18] { //The master list of comparing all the types against other types (Dont want to redo this ever) [GEN 6]
 
      //               Norma,Fight,Flyin,Poiso,Groun,Rock , Bug ,Ghost,Steel,Fire ,Water,Grass,Elect,Psych, Ice ,Drago,Dark ,Fairy
      /*NORMAL   */   {  1  ,  1  ,  1  ,  1  ,  1  , .5f ,  1  ,  0  , .5f ,  1  ,  1  ,  1  ,  1  ,  1  ,  1  ,  1  ,  1  ,  1  },
@@ -69,6 +69,7 @@ public class PokeType : MonoBehaviour {
         //var buttonColors = GetComponent<Button>().colors;
     }
 
+    //All the buttons call on these different functions
     public void NormalType() {
         
         ClearListsAndTexts();
@@ -306,7 +307,7 @@ public class PokeType : MonoBehaviour {
 
     public void DualSwitch() {
         dualMode = !dualMode;
-        //swap dual mode button color
+        //swap dual mode button color                  Colors do not work well, cant access it
         //buttonColors.normalColor = Color.red;
         ClearListsAndTexts();
         dualType1 = "";
@@ -320,6 +321,7 @@ public class PokeType : MonoBehaviour {
         }
     } //should not be needed anymore
 
+    //toggles dual mode functionality
     public void ToggleDual() {
         ClearListsAndTexts();
         dualType1 = "";
@@ -333,6 +335,7 @@ public class PokeType : MonoBehaviour {
         }
     }
 
+    //switches toggle text and bool between Offensive and Defensive
     public void OffDefSwitch() {
         offensiveBool = !offensiveBool;
         ClearListsAndTexts();
@@ -368,7 +371,7 @@ public class PokeType : MonoBehaviour {
             if (offensiveBool) {
                 num = pokeType[row, i];
             }
-            else {
+            else { // defensive
                 num = pokeType[i, row];
             }
             name = ArrayToName(i);
@@ -388,7 +391,7 @@ public class PokeType : MonoBehaviour {
         }
     }
 
-
+    //Converts typeName to corresponding number
     private int NameToArray (string typeName) {
         switch (typeName) {
             case "NORMAL":
@@ -468,6 +471,8 @@ public class PokeType : MonoBehaviour {
                 return 99;
         }
     }
+    
+    //Converts the number back to a name
     private string ArrayToName(int i) {
         switch (i) {
                 case 0:
@@ -511,6 +516,7 @@ public class PokeType : MonoBehaviour {
             }
     }
 
+    //tests dual status and names before proceeding to sorting
     private void TestDualStatus(string typeName) {
         if (dualType1.Equals("")) {
             dualType1 = typeName;
@@ -604,6 +610,7 @@ public class PokeType : MonoBehaviour {
         }
     }
 
+    //populates text objects
     private void PrintResults() {
 
         foreach (string types in zeroList) {
@@ -626,6 +633,7 @@ public class PokeType : MonoBehaviour {
         }
     }
 
+    //clears all text objects
     private void ClearListsAndTexts() {
 
         zeroText.text = "";

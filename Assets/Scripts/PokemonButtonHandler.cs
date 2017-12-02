@@ -14,7 +14,7 @@ public class PokemonButtonHandler : MonoBehaviour {
 		
 	}
 
-
+    // used for testing? I see no other purpose
     public void AddNormal() {
         print("Normal");
     }

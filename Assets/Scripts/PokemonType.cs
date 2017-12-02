@@ -3,6 +3,16 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+
+
+
+/*
+ 
+     This is completly useless from what i can tell, looks like beginnings of something then i had a different idea
+     
+     
+     */
+
 public class PokemonType {
     public float normal;
     public float fighting;
